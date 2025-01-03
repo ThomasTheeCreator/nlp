@@ -1,0 +1,81 @@
+type,text
+Phishing,Your PayPal account has been limited due to suspicious activity. Log in here to restore access: fake-link.com.
+Phishing,We’ve detected a virus in your account. Please confirm your login details immediately to protect your information.
+Phishing,"Your Netflix subscription has been canceled. To continue watching, update your billing info here: fake-link.com."
+Phishing,Amazon: A recent purchase couldn’t be processed. Verify your payment details now.
+Phishing,Your email storage is full. Upgrade now to avoid losing important messages: fake-link.com.
+Phishing,Security Alert: New login detected. Click here to secure your account: fake-link.com.
+Phishing,Your bank account is overdrawn. View your statement here: fake-link.com.
+Phishing,You’ve won a free iPhone! Claim it here: fake-link.com.
+Phishing,Apple ID: Suspicious activity detected. Verify your account immediately.
+Phishing,We’ve blocked your account due to security concerns. Confirm your details to reactivate.
+Spear Phishing,"Hi [Name], we noticed a delay in the project submission. Can you send the files to attacker@example.com?"
+Spear Phishing,"Dear [Name], your recent wire transfer has an issue. Please review the attached document."
+Spear Phishing,"Hi [Name], it’s urgent that we finalize the client details. Reply with your credentials for verification."
+Spear Phishing,"Hey [Name], the CEO asked for a quick update on this matter. Can you send the documents by EOD?"
+Spear Phishing,"Hi [Name], I’ve shared a file with you. Login here to view: fake-link.com."
+Spear Phishing,"Hey [Name], I need you to send the payment to attacker@example.com. Let me know once it’s done."
+Spear Phishing,"Dear [Name], we’ve updated the work schedule. Check the attached file for details."
+Spear Phishing,"Hi [Name], your email failed to deliver. Login here to resend: fake-link.com."
+Spear Phishing,"Hi [Name], the IT team needs to verify your credentials for a system update. Please respond ASAP."
+Spear Phishing,"Hi [Name], as discussed, here’s the link to the confidential client file: fake-link.com."
+Pretexting,This is IT Support. We need your credentials to restore system access.
+Pretexting,"Hi, I’m calling from [Bank Name]. Can you verify your account details?"
+Pretexting,This is [Manager’s Name]. I need you to confirm the payroll files.
+Pretexting,Your child’s school is conducting a survey. Please reply with your personal information.
+Pretexting,This is the electricity board. Your bill is overdue. Send your payment details now.
+Pretexting,"Hi, I’m conducting an internal audit. Can you confirm your team’s passwords?"
+Pretexting,Your phone number was selected for a prize. Provide your name and email to claim it.
+Pretexting,We need to verify your insurance policy. Please provide your policy number and address.
+Pretexting,This is HR. Can you share your SSN for the tax documentation update?
+Pretexting,We’re investigating fraud in your area. Please share your bank details for verification.
+Vishing,This is a call from [Bank Name]. Suspicious activity detected. Call 1-800-123-4567 immediately.
+Vishing,Your Social Security number has been flagged. Contact us at 1-888-999-9999.
+Vishing,We are from [Tech Support]. Please call us to fix your device.
+Vishing,This is the IRS. Pay your tax balance now by calling 1-800-IRS-FRAUD.
+Vishing,Your bank account is locked. Call 1-844-BANK-123 for assistance.
+Vishing,This is [Retailer]. Your account has been charged $500. Call to dispute the charge.
+Vishing,This is your local police department. Pay your fine to avoid a warrant. Call 1-888-LAW-NOW.
+Vishing,We are contacting you about an unpaid bill. Resolve it at 1-800-PAY-BILL.
+Vishing,Your antivirus has expired. Call 1-888-ANTIVIRUS to renew.
+Vishing,This is [Government Agency]. Verify your identity by calling us now.
+Smishing,"You’ve won a $1,000 gift card. Click here to claim: fake-link.com."
+Smishing,Your package has been delayed. Track your shipment at fake-link.com.
+Smishing,Update your banking app to avoid suspension: fake-link.com.
+Smishing,We couldn’t deliver your order. Reschedule here: fake-link.com.
+Smishing,Your phone bill is overdue. Pay now at fake-link.com.
+Smishing,Confirm your delivery address to receive your parcel: fake-link.com.
+Smishing,Your driver’s license needs renewal. Update here: fake-link.com.
+Smishing,Congratulations! You’ve been selected for a free trial. Sign up here: fake-link.com.
+Smishing,Suspicious login detected. Secure your account: fake-link.com.
+Smishing,Activate your new device by logging in here: fake-link.com.
+Baiting,Download this free software to speed up your computer: fake-link.com.
+Baiting,Click here for a free movie download: fake-link.com.
+Baiting,Get premium access to [Service] for free: fake-link.com.
+Baiting,Claim your free cryptocurrency wallet: fake-link.com.
+Baiting,Exclusive: Download leaked celebrity photos here: fake-link.com.
+Baiting,Hurry! Free tickets to the concert: fake-link.com.
+Baiting,Congratulations! Access your free eBook here: fake-link.com.
+Baiting,Click to receive a free Amazon gift card: fake-link.com.
+Baiting,Win a free vacation! Sign up now: fake-link.com.
+Baiting,Download this file to unlock your prize: fake-link.com.
+Quid Pro Quo,Provide your login details to receive a free system upgrade.
+Quid Pro Quo,"Share your password, and we’ll add extra cloud storage for free."
+Quid Pro Quo,Help us test this new app by sharing your account credentials.
+Quid Pro Quo,"Provide access to your files, and we’ll recover your lost data."
+Quid Pro Quo,Share your details to get free tech support.
+Quid Pro Quo,Send your banking info for a special cashback reward.
+Quid Pro Quo,Let us know your login info to claim an exclusive offer.
+Quid Pro Quo,Fill out this form with personal info to receive a free service trial.
+Quid Pro Quo,Provide your credentials to get early access to this tool.
+Quid Pro Quo,Share your network login for a free security check.
+Tailgating,"Hi, this is [Fake Employee]. Can you share today’s access code?"
+Tailgating,I forgot my badge. Can you buzz me in?
+Tailgating,We’re here for system maintenance. Let us into the server room.
+Tailgating,I’m new here and locked out of my account. Can you log me in?
+Tailgating,Can you share your password so I can finish this urgent task?
+Tailgating,I left my laptop at home. Can I use yours for this presentation?
+Tailgating,Can you print this file for me using your credentials?
+Tailgating,I’m locked out of the building. Can you open the door for me?
+Tailgating,The CEO asked me to check the data. Can you give me access?
+Tailgating,I’m from IT. I need admin credentials to fix this issue.
