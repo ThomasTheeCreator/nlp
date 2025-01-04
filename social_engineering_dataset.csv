@@ -1,0 +1,31 @@
+type,text
+Phishing,Your PayPal account has been limited due to suspicious activity. Log in here to restore access: fake-link.com.
+Phishing,We’ve detected a virus in your account. Please confirm your login details immediately to protect your information.
+Phishing,"Your Netflix subscription has been canceled. To continue watching, update your billing info here: fake-link.com."
+Phishing,Amazon: A recent purchase couldn’t be processed. Verify your payment details now.
+Phishing,Your email storage is full. Upgrade now to avoid losing important messages: fake-link.com.
+Phishing,Security Alert: New login detected. Click here to secure your account: fake-link.com.
+Phishing,Your bank account is overdrawn. View your statement here: fake-link.com.
+Phishing,You’ve won a free iPhone! Claim it here: fake-link.com.
+Phishing,Apple ID: Suspicious activity detected. Verify your account immediately.
+Phishing,We’ve blocked your account due to security concerns. Confirm your details to reactivate.
+Spear Phishing,"Hi [Name], we noticed a delay in the project submission. Can you send the files to attacker@example.com?"
+Spear Phishing,"Dear [Name], your recent wire transfer has an issue. Please review the attached document."
+Spear Phishing,"Hi [Name], it’s urgent that we finalize the client details. Reply with your credentials for verification."
+Spear Phishing,"Hey [Name], the CEO asked for a quick update on this matter. Can you send the documents by EOD?"
+Spear Phishing,"Hi [Name], I’ve shared a file with you. Login here to view: fake-link.com."
+Spear Phishing,"Hey [Name], I need you to send the payment to attacker@example.com. Let me know once it’s done."
+Spear Phishing,"Dear [Name], we’ve updated the work schedule. Check the attached file for details."
+Spear Phishing,"Hi [Name], your email failed to deliver. Login here to resend: fake-link.com."
+Spear Phishing,"Hi [Name], the IT team needs to verify your credentials for a system update. Please respond ASAP."
+Spear Phishing,"Hi [Name], as discussed, here’s the link to the confidential client file: fake-link.com."
+Pretexting,This is IT Support. We need your credentials to restore system access.
+Pretexting,"Hi, I’m calling from [Bank Name]. Can you verify your account details?"
+Pretexting,This is [Manager’s Name]. I need you to confirm the payroll files.
+Pretexting,Your child’s school is conducting a survey. Please reply with your personal information.
+Pretexting,This is the electricity board. Your bill is overdue. Send your payment details now.
+Pretexting,"Hi, I’m conducting an internal audit. Can you confirm your team’s passwords?"
+Pretexting,Your phone number was selected for a prize. Provide your name and email to claim it.
+Pretexting,We need to verify your insurance policy. Please provide your policy number and address.
+Pretexting,This is HR. Can you share your SSN for the tax documentation update?
+Pretexting,We’re investigating fraud in your area. Please share your bank details for verification.
